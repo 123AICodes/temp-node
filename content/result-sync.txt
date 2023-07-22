@@ -1,0 +1,3 @@
+Here is the result : 
+	Hello this is the _FIRST_ text file, Hello this is the _SECOND_ text fileHere is the result : 
+	Hello this is the _FIRST_ text file, Hello this is the _SECOND_ text file
